@@ -1,0 +1,2 @@
+# Manufacturing-Efficiency-Analysis
+AI-BASED MANUFACTURING EFFICIENCY CLASSIFICATION
